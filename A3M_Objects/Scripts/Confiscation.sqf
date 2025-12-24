@@ -4,5 +4,5 @@ _TotalWeight = _this select 2;
 
 DeleteVehicle _Drug; 
 
-TotalConfiscation= TotalConfiscation + _TotalWeight; 
+TotalConfiscation = TotalConfiscation + _TotalWeight; 
 publicVariable TotalConfiscation; 
